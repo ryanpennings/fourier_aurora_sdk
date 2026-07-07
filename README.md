@@ -6,6 +6,8 @@ If you are new to Aurora, please refer to the fourier document center to learn a
 
 - [Fourier Document Center](https://support.fftai.com)
 
+Detailed SDK documentation (getting started, architecture, API reference, per-robot reference, examples, simulation) lives in [`docs/`](docs/README.md).
+
 ## v1.3.0 Release
 
 Support Robots:
